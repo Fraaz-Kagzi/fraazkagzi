@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* quick visual proof Tailwind is loaded */
+body { background: #0e0e12; color: #fff; font-family: system-ui, sans-serif; }
